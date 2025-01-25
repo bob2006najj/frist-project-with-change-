@@ -1,0 +1,53 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Macondo&family=Montserrat&family=Piedra&family=Slabo+27px&display=swap');
+
+
+
+:root{
+    --body-font:"Carter One", serif;
+}
+body{
+    display: flex;
+    background-color: black;
+}
+
+
+video{
+    display: flex;
+   
+    width: 100%;
+    max-width: 100rem;
+    height: 50rem;
+    border: none;
+    border-radius: 130rem;
+    margin-top: 5rem;
+   
+    margin-left: 10rem;
+    
+}
+
+.video__container{
+
+    border: none;
+    border-radius: 40rem;
+
+
+}
+
+
+span{
+    display: flex;
+    flex-direction: column;
+    
+    color:yellow;
+    justify-content: center;
+    align-items: end;
+    margin-right:10rem ;
+    margin-top: 60rem;
+    font-family: var(--body-font);
+    border: 2px solid yellowgreen;
+    border-radius:10px ;
+    padding: 1rem 1rem  ;
+    margin-bottom: 5rem;
+    background-color: blueviolet;
+}

@@ -1,0 +1,82 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="/homepage/imghome/logo home1.png" type="image/x-icon">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script>
+    
+    <title>HEVO FOOD Verification</title>
+    <!-- CSS -->
+    <link rel="stylesheet" href="paymethode.css" />
+    <!-- Fontawesome CDN Link -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css"/>
+  </head>
+  <body class="dram">
+  
+
+
+    
+
+    <section>
+      <button class="show-modal">Send Verification</button>
+      <span class="overlay"></span>
+      <div class="modal-box">
+        <i class="fa-regular fa-circle-check"></i>
+        <h2>Completed</h2>
+        <h3>You have sucessfully your ORDER</h3>
+        <div class="buttons">
+          <button class="close-btn">Ok, Close</button>
+          <a href="GPS.HTML"><button id="playVideoButton">Open GPS</button></a>
+        </div>
+      </div>
+    </section>
+
+
+
+
+
+
+
+
+
+
+
+    <script>
+      const section = document.querySelector("section"),
+        overlay = document.querySelector(".overlay"),
+        showBtn = document.querySelector(".show-modal"),
+        closeBtn = document.querySelector(".close-btn");
+      showBtn.addEventListener("click", () => section.classList.add("active"));
+      overlay.addEventListener("click", () =>
+        section.classList.remove("active")
+      );
+      closeBtn.addEventListener("click", () =>
+        section.classList.remove("active")
+      );
+
+
+
+      
+        document.getElementById('watchVideo').addEventListener('click', () => {
+            // Define the video URL
+            const videoURL = '/YOURORDER/assest/deliveryvideo.mp4'; // Replace with your video URL
+
+            // Redirect to the video page with the URL as a query parameter
+            window.location.href = `videoPage.html?video=${encodeURIComponent(videoURL)}`;
+        });
+    </script>
+
+
+<script >
+
+document.getElementById('playVideoButton').addEventListener('click', function() {
+        
+            window.location.href = 'GPS.HTML';
+        });
+</script>
+  </body>
+</html>

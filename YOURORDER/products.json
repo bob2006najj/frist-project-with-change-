@@ -1,0 +1,138 @@
+
+[
+    
+    {
+        "id": 1,
+        "name":"BURGER BIG",
+        "price": 20,
+        "image": "/burgers/responsive-burger-website/assets/img/popular-burger-big.png"
+    },
+
+    {
+        "id": 2,
+        "name":"BURGER GRILL",
+        "price": 12,
+        "image": "/burgers/responsive-burger-website/assets/img/popular-burger-grill.png"
+
+    },
+
+    {
+        "id": 3,
+        "name":"CHICKEN BURGER",
+        "price": 6,
+        "image": "/burgers/responsive-burger-website/assets/img/popular-burger-chicken.png"
+
+    },
+    {
+        "id": 4,
+        "name":"MEAT BURGER",
+        "price": 10,
+        "image": "/burgers/responsive-burger-website/assets/img/popular-burger-meat.png"
+
+    },
+
+    {
+        "id": 5,
+        "name":"CLASSIC BURGER",    
+        "price": 8,
+        "image": "/burgers/responsive-burger-website/assets/img/popular-burger-classic.png"
+
+    },
+
+
+    {
+        "id":6,
+        "name":"Margerita Pizza",
+        "price": 12,
+        "image":"/pizza/popular-1.png"
+    },
+
+    
+    {
+        "id":7,
+        "name":"Muchroom Pizza",
+        "price": 17,
+        "image":"/pizza/popular-2.png"
+    },
+
+    {
+        "id":8,
+        "name":"Italian Pizza",
+        "price": 10,
+        "image":"/pizza/popular-3.png"
+    },
+
+    
+    {
+        "id":9,
+        "name":"Vegeterian  Pizza",
+        "price": 8,
+        "image":"/pizza/product-1.png"
+    },
+
+      
+    {
+        "id":10,
+        "name":"Pinapple  Pizza",
+        "price": 14,
+        "image":"/pizza/pizza fich1.png"
+    },
+
+    {
+        "id":11,
+        "name":"Chesse  Pizza",
+        "price": 22,
+        "image":"/pizza/pizza margerita.png"
+    },
+
+
+    
+
+    {
+        "id":12,
+        "name":"Fich   Pizza",
+        "price": 18,
+        "image":"/pizza/pizzahome1.png"
+    },
+
+    {
+        "id":13,
+        "name":"Soft Drink",
+        "price": 3,
+        "image":"/YOURORDER/assest/bottle-1300161_640.png"
+    },
+
+    {
+        "id":14,
+        "name":"Soft Drink",
+        "price": 3,
+        "image":"/YOURORDER/assest/soda-25188_640.png"
+    },
+
+    {
+        "id":15,
+        "name":"Water",
+        "price": 2,
+        "image":"/YOURORDER/assest/bottledwater-4127009_640.png"
+    },
+
+    {
+        "id":16,
+        "name":"Box Fries",
+        "price": 6,
+        "image":"/YOURORDER/assest/french-fries-155679_640.png"
+    }
+
+    
+
+
+
+    
+    
+
+
+
+    
+
+
+]
