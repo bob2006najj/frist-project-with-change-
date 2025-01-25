@@ -5,14 +5,14 @@
         "id": 1,
         "name":"BURGER BIG",
         "price": 20,
-        "image": "/burgers/responsive-burger-website/assets/img/popular-burger-big.png"
+        "image": "/burgerrr/assets/img/popular-burger-big.png"
     },
 
     {
         "id": 2,
         "name":"BURGER GRILL",
         "price": 12,
-        "image": "/burgers/responsive-burger-website/assets/img/popular-burger-grill.png"
+        "image": "/burgerrr/assets/img/popular-burger-grill.png"
 
     },
 
@@ -20,14 +20,14 @@
         "id": 3,
         "name":"CHICKEN BURGER",
         "price": 6,
-        "image": "/burgers/responsive-burger-website/assets/img/popular-burger-chicken.png"
+        "image": "/burgerrr/assets/img/popular-burger-chicken.png"
 
     },
     {
         "id": 4,
         "name":"MEAT BURGER",
         "price": 10,
-        "image": "/burgers/responsive-burger-website/assets/img/popular-burger-meat.png"
+        "image": "/burgerrr/assets/img/popular-burger-meat.png"
 
     },
 
@@ -35,7 +35,7 @@
         "id": 5,
         "name":"CLASSIC BURGER",    
         "price": 8,
-        "image": "/burgers/responsive-burger-website/assets/img/popular-burger-classic.png"
+        "image": "/burgerrr/assets/img/popular-burger-classic.png"
 
     },
 
